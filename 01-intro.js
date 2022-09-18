@@ -1,4 +1,4 @@
-const amount = 9
+iconst amount = 9
 
 if (amount < 10) {
   console.log('small number')
@@ -8,3 +8,4 @@ if (amount < 10) {
 
 console.log(`hey it's my first node app!!!`)
 console.log('For git pull added this')
+console.log('added to check git push from local to remote')
