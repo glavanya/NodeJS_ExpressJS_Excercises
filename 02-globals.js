@@ -12,3 +12,4 @@ setInterval(() => {
 }, 1000)
 
 console.log('push command from local to remote')
+console.log('ssh key password based')
