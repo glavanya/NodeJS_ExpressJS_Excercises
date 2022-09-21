@@ -12,4 +12,5 @@ console.log('added to check git push from local to remote')
 console.log('demonstrate the usage of ssh protocol')
 console.log('demonstratte ssh password')
 console.log('pullcommand from github')
+console.log('ssh demonstrate the protocol')
 
